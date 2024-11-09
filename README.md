@@ -21,13 +21,6 @@ How to Use:
 
     Open the index.html file in your preferred browser.
 
-Project Structure
-
-Calculator-HTML/
-├── index.html        # HTML structure of the calculator
-├── styles.css          # Calculator styling and layout
-└── script.js           # JavaScript logic and functionalities
-
 Contribution
 
 Contributions are welcome! If you have suggestions or improvements, feel free to fork this repository and open a pull request.
