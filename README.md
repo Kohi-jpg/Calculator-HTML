@@ -23,8 +23,8 @@ How to Use:
 
 Project Structure
 
-simple-calculator/
-├── index.html          # HTML structure of the calculator
+Calculator-HTML/
+├── index.html        # HTML structure of the calculator
 ├── styles.css          # Calculator styling and layout
 └── script.js           # JavaScript logic and functionalities
 
